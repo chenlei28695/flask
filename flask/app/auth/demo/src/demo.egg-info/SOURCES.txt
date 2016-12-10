@@ -1,0 +1,10 @@
+setup.py
+src/demo/__init__.py
+src/demo/aaa.txt
+src/demo.egg-info/PKG-INFO
+src/demo.egg-info/SOURCES.txt
+src/demo.egg-info/dependency_links.txt
+src/demo.egg-info/top_level.txt
+src/demo.egg-info/zip-safe
+src/demo/data/abc.dat
+src/demo/data/abcd.dat
